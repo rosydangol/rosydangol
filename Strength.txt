@@ -1,0 +1,6 @@
+<ol>
+    <li>Quick Learner</li>
+    <li>Able to work in a Pressuring Environment</li>
+    <li>Fluent English</li>
+    <li>Flexible</li>
+</ol>

@@ -1,0 +1,5 @@
+<ul>
+                	<li>SLC from New Sumnima English School  in 2070 BS</li>
+                	<li>HSEB from MOLHISS in 2072 BS</li>
+                	<li>BSC.CSIT running at Academia Internatrional College</li>
+</ul>
